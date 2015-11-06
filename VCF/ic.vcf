@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iOS 9.1//EN
+N:;;;;
+FN:
+item1.TEL;type=pref:被你标记的号码
+item1.X-ABLabel:被你标记的号码
+TEL;type=CELL;type=VOICE:18945299731
+item2.TEL:被你拉入黑名单
+item2.X-ABLabel:被你拉入黑名单
+item3.TEL:18261512828
+item3.X-ABLabel:江苏 无锡 移动
+item4.TEL:18910537789
+item4.X-ABLabel:北京  电信
+item5.TEL:223114135341
+item5.X-ABLabel:被你拉入黑名单 天津
+REV:2015-11-03T02:38:21Z
+END:VCARD
