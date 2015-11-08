@@ -14,8 +14,6 @@
 		C24F03D91BEB56D60029DA4E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C24F03D81BEB56D60029DA4E /* Images.xcassets */; };
 		C24F03DC1BEB56D60029DA4E /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C24F03DA1BEB56D60029DA4E /* LaunchScreen.xib */; };
 		C24F03E81BEB56D70029DA4E /* VCFTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C24F03E71BEB56D70029DA4E /* VCFTests.m */; };
-		C24F03F41BEB617B0029DA4E /* Contactsl.vcf in Resources */ = {isa = PBXBuildFile; fileRef = C24F03F31BEB617B0029DA4E /* Contactsl.vcf */; };
-		C24F03F61BEB66560029DA4E /* ic.vcf in Resources */ = {isa = PBXBuildFile; fileRef = C24F03F51BEB66560029DA4E /* ic.vcf */; };
 		C24F03FF1BEC4F2B0029DA4E /* YUVcardImporter.m in Sources */ = {isa = PBXBuildFile; fileRef = C24F03FE1BEC4F2B0029DA4E /* YUVcardImporter.m */; };
 		C24F04011BEC79790029DA4E /* Contacts.vcf in Resources */ = {isa = PBXBuildFile; fileRef = C24F04001BEC79790029DA4E /* Contacts.vcf */; };
 		C294FAD21BEC9757006DEA45 /* BaseSixtyFour.m in Sources */ = {isa = PBXBuildFile; fileRef = C294FAD11BEC9757006DEA45 /* BaseSixtyFour.m */; };
@@ -46,8 +44,6 @@
 		C24F03E11BEB56D60029DA4E /* VCFTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VCFTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C24F03E61BEB56D70029DA4E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C24F03E71BEB56D70029DA4E /* VCFTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = VCFTests.m; sourceTree = "<group>"; };
-		C24F03F31BEB617B0029DA4E /* Contactsl.vcf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Contactsl.vcf; sourceTree = "<group>"; };
-		C24F03F51BEB66560029DA4E /* ic.vcf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ic.vcf; sourceTree = "<group>"; };
 		C24F03FD1BEC4F2B0029DA4E /* YUVcardImporter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YUVcardImporter.h; sourceTree = "<group>"; };
 		C24F03FE1BEC4F2B0029DA4E /* YUVcardImporter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YUVcardImporter.m; sourceTree = "<group>"; };
 		C24F04001BEC79790029DA4E /* Contacts.vcf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Contacts.vcf; sourceTree = "<group>"; };
@@ -80,8 +76,6 @@
 				C24F03CA1BEB56D60029DA4E /* VCF */,
 				C24F03E41BEB56D60029DA4E /* VCFTests */,
 				C24F03C91BEB56D50029DA4E /* Products */,
-				C24F03F31BEB617B0029DA4E /* Contactsl.vcf */,
-				C24F03F51BEB66560029DA4E /* ic.vcf */,
 			);
 			sourceTree = "<group>";
 		};
@@ -222,11 +216,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C24F03F41BEB617B0029DA4E /* Contactsl.vcf in Resources */,
 				C294FAD41BEC9B8C006DEA45 /* contact_icon.png in Resources */,
 				C24F03D71BEB56D60029DA4E /* Main.storyboard in Resources */,
 				C24F04011BEC79790029DA4E /* Contacts.vcf in Resources */,
-				C24F03F61BEB66560029DA4E /* ic.vcf in Resources */,
 				C24F03DC1BEB56D60029DA4E /* LaunchScreen.xib in Resources */,
 				C24F03D91BEB56D60029DA4E /* Images.xcassets in Resources */,
 			);
